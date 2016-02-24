@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\Kevin\\AndroidStudioProjects\\IOIOSimpleApp\\build\\intermediates\\res\\merged\\debug\\drawable\\icon.png",
+        "source": "C:\\Users\\Kevin\\AndroidStudioProjects\\IOIOSimpleApp\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Kevin\\AndroidStudioProjects\\IOIOSimpleApp\\build\\intermediates\\res\\merged\\debug\\drawable\\ioio_down.png",
+        "source": "C:\\Users\\Kevin\\AndroidStudioProjects\\IOIOSimpleApp\\src\\main\\res\\drawable\\ioio_down.png"
+    }
+]
